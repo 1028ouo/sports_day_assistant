@@ -1,0 +1,7 @@
+# 常用 Python 套件
+SpeechRecognition
+pyttsx3
+openpyxl
+gtts
+pygame
+ipykernel
